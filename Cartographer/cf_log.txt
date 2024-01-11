@@ -1,0 +1,1 @@
+Warning: None triangle mesh: WorldObject #4 (file: 'E:\VS2010\Cartographer\Cartographer\test.fbx') [ (line 0)]

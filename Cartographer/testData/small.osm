@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.1.0" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.4316750" minlon="-2.7506160" maxlat="51.4323400" maxlon="-2.7498920"/>
+ <node id="1434764053" lat="51.4317079" lon="-2.7502217" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:31Z"/>
+ <node id="1434764054" lat="51.4317422" lon="-2.7505147" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764071" lat="51.4319006" lon="-2.7504446" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764072" lat="51.4319036" lon="-2.7506067" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764103" lat="51.4322784" lon="-2.7499960" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:34Z"/>
+ <node id="1434764058" lat="51.4318391" lon="-2.7500415" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764062" lat="51.4318616" lon="-2.7500814" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764063" lat="51.4318758" lon="-2.7501866" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764064" lat="51.4318774" lon="-2.7502390" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764065" lat="51.4318817" lon="-2.7502766" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764067" lat="51.4318907" lon="-2.7503486" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764068" lat="51.4318953" lon="-2.7503891" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764070" lat="51.4319005" lon="-2.7502711" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764073" lat="51.4319088" lon="-2.7503433" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764074" lat="51.4319160" lon="-2.7505574" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:32Z"/>
+ <node id="1434764075" lat="51.4319296" lon="-2.7500899" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764076" lat="51.4319385" lon="-2.7501686" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764078" lat="51.4319446" lon="-2.7502191" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764081" lat="51.4319619" lon="-2.7503694" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764082" lat="51.4319668" lon="-2.7504275" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764083" lat="51.4319769" lon="-2.7505091" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764088" lat="51.4321407" lon="-2.7504607" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764089" lat="51.4321525" lon="-2.7505650" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764093" lat="51.4321714" lon="-2.7499533" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764094" lat="51.4321785" lon="-2.7500159" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764098" lat="51.4322128" lon="-2.7504389" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:33Z"/>
+ <node id="1434764099" lat="51.4322252" lon="-2.7505470" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:34Z"/>
+ <node id="1434764104" lat="51.4322867" lon="-2.7499221" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:34Z"/>
+ <node id="1434764105" lat="51.4322938" lon="-2.7499922" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:34Z"/>
+ <node id="1434764109" lat="51.4323281" lon="-2.7504066" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:34Z"/>
+ <way id="130174454" user="UniEagle" uid="61216" visible="true" version="1" changeset="9318264" timestamp="2011-09-16T18:05:13Z">
+  <nd ref="1434764064"/>
+  <nd ref="1434764078"/>
+  <nd ref="1434764081"/>
+  <nd ref="1434764068"/>
+  <nd ref="1434764067"/>
+  <nd ref="1434764073"/>
+  <nd ref="1434764070"/>
+  <nd ref="1434764065"/>
+  <nd ref="1434764064"/>
+ </way>
+ <way id="130174453" user="UniEagle" uid="61216" visible="true" version="2" changeset="10855075" timestamp="2012-03-03T07:42:22Z">
+  <nd ref="1434764072"/>
+  <nd ref="1434764054"/>
+  <nd ref="1434764053"/>
+  <nd ref="1434764058"/>
+  <nd ref="1434764062"/>
+  <nd ref="1434764063"/>
+  <nd ref="1434764076"/>
+  <nd ref="1434764075"/>
+  <nd ref="1434764094"/>
+  <nd ref="1434764093"/>
+  <nd ref="1434764104"/>
+  <nd ref="1434764105"/>
+  <nd ref="1434764103"/>
+  <nd ref="1434764109"/>
+  <nd ref="1434764098"/>
+  <nd ref="1434764099"/>
+  <nd ref="1434764089"/>
+  <nd ref="1434764088"/>
+  <nd ref="1434764083"/>
+  <nd ref="1434764082"/>
+  <nd ref="1434764071"/>
+  <nd ref="1434764074"/>
+  <nd ref="1434764072"/>
+  <tag k="building" v="school"/>
+ </way>
+ <relation id="1754216" user="mentor" uid="38588" visible="true" version="3" changeset="13418011" timestamp="2012-10-08T20:01:42Z">
+  <member type="way" ref="130174453" role="outer"/>
+  <member type="way" ref="130174454" role="inner"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

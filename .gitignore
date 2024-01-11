@@ -1,0 +1,8 @@
+Win32/
+Cartographer/Debug/
+Cartographer/Release/
+Cartographer/GeneratedFiles/
+Cartographer/ui/api/
+Cartographer/ui/enyo/
+Cartographer/ui/lib/
+Cartographer/ui/build/

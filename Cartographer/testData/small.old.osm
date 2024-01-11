@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.1.0" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="51.4329620" minlon="-2.7601380" maxlat="51.4333200" maxlon="-2.7594780"/>
+ <node id="1698628089" lat="51.4331222" lon="-2.7600722" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="2157624276" lat="51.4331908" lon="-2.7595037" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="1698628099" lat="51.4331728" lon="-2.7599261" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628093" lat="51.4331615" lon="-2.7599194" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628082" lat="51.4330829" lon="-2.7599422" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628126" lat="51.4331682" lon="-2.7596632" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628098" lat="51.4332288" lon="-2.7598845" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628090" lat="51.4331122" lon="-2.7598858" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628075" lat="51.4330704" lon="-2.7600012" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628118" lat="51.4332267" lon="-2.7597021" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628087" lat="51.4332493" lon="-2.7597906" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628124" lat="51.4331105" lon="-2.7596981" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628095" lat="51.4330980" lon="-2.7599515" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="1698628072" lat="51.4330846" lon="-2.7597920" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:42:27Z"/>
+ <node id="2157633134" lat="51.4330227" lon="-2.7597842" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:36Z"/>
+ <node id="2157636510" lat="51.4329869" lon="-2.7597486" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:11Z"/>
+ <node id="2157636514" lat="51.4330368" lon="-2.7595516" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:11Z"/>
+ <node id="452393564" lat="51.4332081" lon="-2.7585937" user="Woodworm" uid="150934" visible="true" version="1" changeset="1991756" timestamp="2009-07-31T08:20:32Z"/>
+ <node id="452393565" lat="51.4332616" lon="-2.7584221" user="Woodworm" uid="150934" visible="true" version="1" changeset="1991756" timestamp="2009-07-31T08:20:32Z"/>
+ <node id="2157624194" lat="51.4331051" lon="-2.7587098" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:24Z"/>
+ <node id="2157624199" lat="51.4333787" lon="-2.7600962" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:24Z"/>
+ <node id="2157624220" lat="51.4333736" lon="-2.7587611" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:25Z"/>
+ <node id="2157624222" lat="51.4332123" lon="-2.7594592" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:25Z"/>
+ <node id="2157624226" lat="51.4329176" lon="-2.7602091" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:49:37Z"/>
+ <node id="2157624229" lat="51.4333258" lon="-2.7600428" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:25Z"/>
+ <node id="2157624230" lat="51.4332027" lon="-2.7594525" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:25Z"/>
+ <node id="2157624232" lat="51.4333835" lon="-2.7587681" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:25Z"/>
+ <node id="2157624248" lat="51.4333824" lon="-2.7600781" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:25Z"/>
+ <node id="2157624259" lat="51.4334861" lon="-2.7585523" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:47:03Z"/>
+ <node id="2157624264" lat="51.4332135" lon="-2.7586632" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624265" lat="51.4333831" lon="-2.7587178" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624266" lat="51.4329429" lon="-2.7593481" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624267" lat="51.4331713" lon="-2.7585828" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624268" lat="51.4332240" lon="-2.7586197" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624269" lat="51.4336402" lon="-2.7587674" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:47:03Z"/>
+ <node id="2157624271" lat="51.4331584" lon="-2.7586324" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624272" lat="51.4332813" lon="-2.7586619" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624273" lat="51.4332729" lon="-2.7587008" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624275" lat="51.4331365" lon="-2.7587279" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:26Z"/>
+ <node id="2157624277" lat="51.4333944" lon="-2.7584940" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:47:03Z"/>
+ <node id="2157624278" lat="51.4334611" lon="-2.7586535" user="Norfolkadam" uid="189782" visible="true" version="2" changeset="15053602" timestamp="2013-02-16T16:47:03Z"/>
+ <node id="2157631341" lat="51.4335203" lon="-2.7592526" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:47:02Z"/>
+ <node id="2157633131" lat="51.4331797" lon="-2.7602272" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:36Z"/>
+ <node id="2157633132" lat="51.4329416" lon="-2.7597334" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:36Z"/>
+ <node id="2157633133" lat="51.4329482" lon="-2.7600829" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:36Z"/>
+ <node id="2157633145" lat="51.4328884" lon="-2.7603359" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:37Z"/>
+ <node id="2157633147" lat="51.4328074" lon="-2.7602851" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:37Z"/>
+ <node id="2157636511" lat="51.4326090" lon="-2.7589505" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:11Z"/>
+ <node id="2157636520" lat="51.4329130" lon="-2.7593217" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:11Z"/>
+ <node id="2157636522" lat="51.4325363" lon="-2.7592256" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:11Z"/>
+ <node id="2157636524" lat="51.4324865" lon="-2.7594226" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:12Z"/>
+ <node id="2157636529" lat="51.4325712" lon="-2.7591022" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:12Z"/>
+ <node id="2157640260" lat="51.4322552" lon="-2.7586803" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:54:10Z"/>
+ <node id="2157640264" lat="51.4326267" lon="-2.7589007" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:54:10Z"/>
+ <node id="2157640275" lat="51.4322854" lon="-2.7584749" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:54:10Z"/>
+ <node id="2157640277" lat="51.4323114" lon="-2.7584903" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:54:10Z"/>
+ <node id="2157640281" lat="51.4322910" lon="-2.7585248" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:54:10Z"/>
+ <node id="2157640282" lat="51.4323019" lon="-2.7585312" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:54:10Z"/>
+ <node id="2157640676" lat="51.4322439" lon="-2.7584400" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640677" lat="51.4322678" lon="-2.7584542" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640686" lat="51.4322979" lon="-2.7582064" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640689" lat="51.4321798" lon="-2.7588272" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640690" lat="51.4321675" lon="-2.7586551" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640693" lat="51.4322076" lon="-2.7587066" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640695" lat="51.4321991" lon="-2.7587016" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640696" lat="51.4321764" lon="-2.7586166" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640697" lat="51.4322238" lon="-2.7586448" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2157640698" lat="51.4322047" lon="-2.7586771" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:55:17Z"/>
+ <node id="2167523135" lat="51.4321141" lon="-2.7591185" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:58Z"/>
+ <node id="2167523136" lat="51.4321465" lon="-2.7593431" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:58Z"/>
+ <node id="2167523138" lat="51.4322267" lon="-2.7593200" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:59Z"/>
+ <node id="2167523140" lat="51.4322361" lon="-2.7594879" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:59Z"/>
+ <node id="2167523142" lat="51.4323401" lon="-2.7582376" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:59Z"/>
+ <node id="2167523144" lat="51.4324339" lon="-2.7596187" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:59Z"/>
+ <node id="2167523149" lat="51.4332220" lon="-2.7601994" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:59Z"/>
+ <node id="2167523151" lat="51.4336025" lon="-2.7589199" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:59Z"/>
+ <way id="205785510" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:52:12Z">
+  <nd ref="2157636514"/>
+  <nd ref="2157636510"/>
+  <nd ref="2157636524"/>
+  <nd ref="2157636522"/>
+  <nd ref="2157636514"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="205784158" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:42:27Z">
+  <nd ref="2157624266"/>
+  <nd ref="2157624276"/>
+  <nd ref="2157624230"/>
+  <nd ref="2157624222"/>
+  <nd ref="2157624232"/>
+  <nd ref="2157624220"/>
+  <nd ref="2157624265"/>
+  <nd ref="2157624272"/>
+  <nd ref="2157624273"/>
+  <nd ref="2157624264"/>
+  <nd ref="2157624268"/>
+  <nd ref="2157624267"/>
+  <nd ref="2157624271"/>
+  <nd ref="2157624275"/>
+  <nd ref="2157624194"/>
+  <nd ref="2157624266"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206711240" user="paulxb" uid="169970" visible="true" version="2" changeset="15127786" timestamp="2013-02-22T19:41:44Z">
+  <nd ref="2167523151"/>
+  <nd ref="2157624269"/>
+  <nd ref="2157624278"/>
+  <nd ref="2157624259"/>
+  <nd ref="2157624277"/>
+  <nd ref="452393565"/>
+  <nd ref="452393564"/>
+  <nd ref="2157624268"/>
+  <nd ref="2157624264"/>
+  <nd ref="2157624273"/>
+  <nd ref="2157624272"/>
+  <nd ref="2157624265"/>
+  <nd ref="2157624220"/>
+  <nd ref="2157624230"/>
+  <nd ref="2157624276"/>
+  <nd ref="2157624266"/>
+  <nd ref="2157636520"/>
+  <nd ref="2157636529"/>
+  <nd ref="2157636511"/>
+  <nd ref="2157640264"/>
+  <nd ref="2157640260"/>
+  <nd ref="2157640281"/>
+  <nd ref="2157640282"/>
+  <nd ref="2157640277"/>
+  <nd ref="2157640275"/>
+  <nd ref="2167523142"/>
+  <nd ref="2157640686"/>
+  <nd ref="2157640676"/>
+  <nd ref="2157640677"/>
+  <nd ref="2157640697"/>
+  <nd ref="2157640696"/>
+  <nd ref="2157640690"/>
+  <nd ref="2157640698"/>
+  <nd ref="2157640695"/>
+  <nd ref="2157640693"/>
+  <nd ref="2157640689"/>
+  <nd ref="2167523135"/>
+  <nd ref="2167523136"/>
+  <nd ref="2167523138"/>
+  <nd ref="2167523140"/>
+  <nd ref="2167523144"/>
+  <nd ref="2157636524"/>
+  <nd ref="2157636522"/>
+  <nd ref="2157636514"/>
+  <nd ref="2157636510"/>
+  <nd ref="2157633134"/>
+  <nd ref="2157633133"/>
+  <nd ref="2157633131"/>
+  <nd ref="2167523149"/>
+  <nd ref="2157624199"/>
+  <nd ref="2157624248"/>
+  <nd ref="2157624229"/>
+  <nd ref="2157631341"/>
+  <nd ref="2167523151"/>
+  <tag k="area" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Crown Glass Place"/>
+ </way>
+ <way id="157613702" user="paulxb" uid="169970" visible="true" version="2" changeset="15125186" timestamp="2013-02-22T15:49:15Z">
+  <nd ref="1698628087"/>
+  <nd ref="1698628118"/>
+  <nd ref="1698628126"/>
+  <nd ref="1698628124"/>
+  <nd ref="1698628072"/>
+  <nd ref="1698628090"/>
+  <nd ref="1698628095"/>
+  <nd ref="1698628082"/>
+  <nd ref="1698628075"/>
+  <nd ref="1698628089"/>
+  <nd ref="1698628093"/>
+  <nd ref="1698628099"/>
+  <nd ref="1698628098"/>
+  <nd ref="1698628087"/>
+  <tag k="addr:postcode" v="BS48 1RQ"/>
+  <tag k="amenity" v="library"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing;Local knowledge"/>
+  <tag k="website" v="http://www.n-somerset.gov.uk/Leisure/Libraries/Your+local+library/nailsealibrary.htm"/>
+  <tag k="wheelchair" v="limited"/>
+ </way>
+ <way id="205785209" user="Norfolkadam" uid="189782" visible="true" version="1" changeset="15053602" timestamp="2013-02-16T16:49:37Z">
+  <nd ref="2157633147"/>
+  <nd ref="2157633145"/>
+  <nd ref="2157624226"/>
+  <nd ref="2157633133"/>
+  <nd ref="2157633134"/>
+  <nd ref="2157633132"/>
+  <nd ref="2157633147"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
